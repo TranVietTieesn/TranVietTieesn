@@ -31,29 +31,13 @@ I'm an AI Engineer passionate about transforming complex problems into elegant, 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎯 [AI-Powered Content Analyzer](https://github.com/username/content-analyzer)
-A sophisticated NLP pipeline that analyzes social media content for sentiment, topics, and engagement predictions. Built with transformer models and deployed on AWS.
-
-### 🖼️ [Smart Image Enhancement](https://github.com/username/image-enhancement)
-Computer vision system using GANs to automatically enhance low-quality images. Achieved 40% improvement in image clarity metrics.
-
-### 🤖 [Conversational AI Assistant](https://github.com/username/ai-assistant)
-Custom chatbot leveraging fine-tuned language models for domain-specific conversations. Integrated with REST APIs and deployed as a microservice.
-
-### 📈 [Predictive Analytics Dashboard](https://github.com/username/analytics-dashboard)
-End-to-end ML pipeline with interactive visualization dashboard for business intelligence. Real-time predictions with 95% accuracy.
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranVietTien&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranVietTieesn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TranVietTien&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TranVietTieesn&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TranVietTien&theme=tokyonight&hide_border=true)
 
@@ -62,7 +46,7 @@ End-to-end ML pipeline with interactive visualization dashboard for business int
 ---
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TranVietTien&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TranVietTieesn&theme=tokyo-night&hide_border=true)
 
 ---
 
