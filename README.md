@@ -27,8 +27,6 @@ I'm an AI Engineer passionate about transforming complex problems into elegant, 
 - 🔤 **Natural Language Processing** - LLMs, sentiment analysis, and language understanding
 - 👁️ **Computer Vision** - Image classification, object detection, and visual AI
 - 📊 **MLOps** - Model deployment, monitoring, and production pipelines
-- ☁️ **Cloud Platforms** - AWS, GCP, Azure for scalable AI solutions
-
 ---
 
 ## 📫 Let's Connect
