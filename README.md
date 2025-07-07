@@ -31,25 +31,6 @@ I'm an AI Engineer passionate about transforming complex problems into elegant, 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranVietTieesn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TranVietTieesn&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TranVietTien&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TranVietTieesn&theme=tokyo-night&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 I'm always excited to collaborate on innovative AI projects or discuss the latest breakthroughs in machine learning!
@@ -61,6 +42,7 @@ I'm always excited to collaborate on innovative AI projects or discuss the lates
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tranviettien1012_/)
 
 ---
+
 
 <div align="center">
   <i>⚡ "Building the future, one algorithm at a time" ⚡</i>
