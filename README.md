@@ -1,6 +1,6 @@
-# Hi there, I'm Tran Viet Tien 👋
+# Hi there, I'm Tran Viet Tien
 
-## 👋 About Me
+## About Me
 
 I'm an AI Engineer passionate about transforming complex problems into elegant, intelligent solutions. My journey in artificial intelligence is driven by the belief that technology should amplify human potential, not replace it. Whether it's building neural networks that see the world differently or crafting algorithms that understand language like poetry, I'm always excited to push the boundaries of what's possible with code and creativity.
 
@@ -8,7 +8,7 @@ I'm an AI Engineer passionate about transforming complex problems into elegant, 
 
 ---
 
-## 💼 Core Skills
+## Core Skills
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -23,13 +23,13 @@ I'm an AI Engineer passionate about transforming complex problems into elegant, 
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
 
 ### **Specializations**
-- 🧠 **Deep Learning** - Neural networks, transformers, and cutting-edge architectures
-- 🔤 **Natural Language Processing** - LLMs, sentiment analysis, and language understanding
-- 👁️ **Computer Vision** - Image classification, object detection, and visual AI
-- 📊 **MLOps** - Model deployment, monitoring, and production pipelines
+- **Deep Learning** - Neural networks, transformers, and cutting-edge architectures
+- **Natural Language Processing** - LLMs, sentiment analysis, and language understanding
+- **Computer Vision** - Image classification, object detection, and visual AI
+- **MLOps** - Model deployment, monitoring, and production pipelines
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always excited to collaborate on innovative AI projects or discuss the latest breakthroughs in machine learning!
 
@@ -43,7 +43,7 @@ I'm always excited to collaborate on innovative AI projects or discuss the lates
 
 
 <div align="center">
-  <i>⚡ "Building the future, one algorithm at a time" ⚡</i>
+  <i> "Building the future, one algorithm at a time" </i>
 </div>
 
 ---
